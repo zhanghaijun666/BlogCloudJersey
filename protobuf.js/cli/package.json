@@ -7,7 +7,7 @@
     "estraverse": "^4.2.0",
     "glob": "^7.1.2",
     "jsdoc": "^3.5.5",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "semver": "^5.7.1",
     "tmp": "0.0.33",
     "uglify-js": "^3.4.9"
